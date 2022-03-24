@@ -1,9 +1,9 @@
 module.exports = {
   development: {
-    username: '<YOUR_USER_NAME>',
+    username: 'tabithan',
     password: null,
     database: 'bugs_development',
-    host: '127.0.0.1',
+    host: 'localhost',
     dialect: 'postgres',
   },
 };

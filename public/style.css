@@ -1,0 +1,9 @@
+input {
+  display: block;
+  margin: 10px 0;
+  width: 300px;
+}
+
+.errorDiv {
+  color: red;
+}
